@@ -1,5 +1,7 @@
 # NMT - Neural Machine Translator
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## Introduction
 
 Lets say you have gone to a place, where you don't know the language, but see a sign board, having words in that new language, you know which language that is but, don't understand or speak of it. 

@@ -3,12 +3,15 @@
 ## Introduction
 
 Lets say you have gone to a place, where you don't know the language, but see a sign board, having words in that new language, you know which language that is but, don't understand or speak of it. 
+<p align="center">
+  <img src="https://github.com/nischaygowda105/Neural-Machine-Translator/blob/master/output.gif">
+</p>   
 
-![NMT%20-%20Neural%20Machine%20Translator%20c613bef401da4d28b31e0be902c50e38/output.gif](NMT%20-%20Neural%20Machine%20Translator%20c613bef401da4d28b31e0be902c50e38/output.gif)
+<p align="center">
+French - English Translation
+</p>                           
 
-                                                         **French - English Translation**
-
-**Google translate** comes to rescue, it scans the unknown sentence as input to give out a translated sentence of your choice of language. Impressive isn't it.
+**Google translate** comes to in handy, it scans the unknown sentence as input to give out a translated sentence of your choice of language. Impressive isn't it.
 
 ## **How is it Done ?**
 

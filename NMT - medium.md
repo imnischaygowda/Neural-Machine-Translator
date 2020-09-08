@@ -133,4 +133,4 @@ Output of trained model.
 
 What to try it on your own.  [Link](https://github.com/nischaygowda105/Neural-Machine-Translator) to my GitHub repository. Much of the code is taken from [Pytorch](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
-Feel free to hit that claps, See you guys soon with another one.
+Feel free to hit that claps, See you soon with another one.
